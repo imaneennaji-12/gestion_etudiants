@@ -1,0 +1,11 @@
+# Photos envoyées par les utilisateurs
+uploads/*
+!uploads/.gitkeep
+
+# Données réelles des étudiants
+data/etudiants.txt
+
+# Divers
+.DS_Store
+.vscode/
+.idea/
